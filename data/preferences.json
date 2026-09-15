@@ -1,0 +1,14 @@
+{
+  "airline_preference_1": {
+    "name": "航空偏好",
+    "preferences": "CI,BR,JX"
+  },
+  "special_activity_and_hotel_near_station": {
+    "name": "Special Activities and Hotel Preferences",
+    "preferences": "Prefers participating in special events or activities. Accommodation preference is for regular hotels near train stations, excluding youth hostels and serviced apartments."
+  },
+  "nature_lover": {
+    "name": "喜愛自然景觀",
+    "preferences": "偏好自然景觀及戶外活動，如登山、徒步、賞景等"
+  }
+}
